@@ -3,3 +3,4 @@ model-ckpt.pt
 Getting Started/02_tokenizer/my_tokenizer
 Getting Started/03_model/rbt
 Getting Started/04_datasets/rbt3
+Getting Started/06_trainer/rbt3
